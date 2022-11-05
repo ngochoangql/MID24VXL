@@ -1,0 +1,5 @@
+status_3button.c:10:6:resetButtonPress	8	static
+status_3button.c:19:6:incButtonPress	8	static
+status_3button.c:31:6:decButtonPress	8	static
+status_3button.c:44:6:incButtonLongPress	8	static
+status_3button.c:58:6:decButtonLongPress	8	static
